@@ -1,7 +1,5 @@
 <div align="center">
 
-view site byi
+sign my strawpage~ tanks
 
-![](https://komarev.com/ghpvc/?username=jwadeypup&style=flat&color=d6f367&label=woofs&base=0&abbreviated=true"alt="GitHubProfileViews)
-
-super inactive on here .. probably remaking my stuff
+![](https://komarev.com/ghpvc/?username=jwadeypup&style=flat&color=4AC925&label=woofs&base=0&abbreviated=true"alt="GitHubProfileViews)
