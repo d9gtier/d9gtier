@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://cdn.imgchest.com/files/280a93c65ff6.gif" width="185">
+![](https://komarev.com/ghpvc/?username=d9gtier&style=flat&color=ff0000&label=bats&base=67000&abbreviated=true"alt="GitHubProfileViews)
 
-![](https://komarev.com/ghpvc/?username=d9gtier&style=flat&color=4AC925&label=friends&base=67000&abbreviated=true"alt="GitHubProfileViews)
-
-<img src="https://cdn.imgchest.com/files/a1bf1c7d3a09.gif" width="75">
+<img src="https://cdn.imgchest.com/files/d63db261fe73.png" width="75">
